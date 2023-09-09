@@ -1,9 +1,8 @@
-version: '3'
+version: '3.8'
 services:
   web:
-    image: img-static-site-example
     build: .
-    container_name: my-static-site
+    container_name: Where_are_the_Robots
     restart: always
     ports:
-      - "8080:80"
+      - "8009:80"
