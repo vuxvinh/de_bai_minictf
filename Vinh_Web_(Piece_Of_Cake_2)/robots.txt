@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /index.html
-# Third Piece: c35_h4v3_8
-# I think this is an apache server... can you Access the next flag?
